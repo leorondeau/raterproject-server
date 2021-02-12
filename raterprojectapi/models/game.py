@@ -7,7 +7,7 @@ class Game(models.Model):
     description = models.CharField(max_length=250)
     designer = models.CharField(max_length=50)
     year_released = models.DateField()
-    number_of_players = models.CharField(max_length=10)
+    number_of_players = models.IntegerField()
     estimated_time_of_play = models.IntegerField()
     age_recommendation = models.IntegerField()
 
