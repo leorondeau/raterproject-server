@@ -1,0 +1,20 @@
+[
+    {
+        "model": "raterprojectapi.review",
+        "pk": 1,
+        "fields": {
+            "gamer": 1,
+            "game": 2,
+            "review": "graphics blow"
+        }
+    },
+    {
+        "model": "raterprojectapi.review",
+        "pk": 2,
+        "fields": {
+            "gamer": 1,
+            "game": 2,
+            "review": "Amazing gaming experience"
+        }
+    }
+]
