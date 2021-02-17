@@ -1,6 +1,6 @@
 [
     {
-        "model": "raterprojectapi.ratings",
+        "model": "raterprojectapi.rating",
         "pk": 1,
         "fields": {
             "game": 2,
@@ -9,7 +9,7 @@
         }
     },
     {
-        "model": "raterprojectapi.ratings",
+        "model": "raterprojectapi.rating",
         "pk": 2,
         "fields": {
             "game": 2,
