@@ -1,6 +1,6 @@
 [
     {
-        "model": "gameraterapi.gamecategory",
+        "model": "raterprojectapi.gamecategory",
         "pk": 1,
         "fields": {
             "game": 1,
