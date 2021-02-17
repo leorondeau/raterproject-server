@@ -1,41 +1,41 @@
 [
     {
-        "model": "gameraterapi.category",
+        "model": "raterprojectapi.category",
         "pk": 1,
         "fields": {
             "type": "strategy"
         }
     },
     {
-        "model": "gameraterapi.category",
+        "model": "raterprojectapi.category",
         "pk": 2,
         "fields": {
             "type": "dice"
         }
     },
     {
-        "model": "gameraterapi.category",
+        "model": "raterprojectapi.category",
         "pk": 3,
         "fields": {
             "type": "miniature"
         }
     },
     {
-        "model": "gameraterapi.category",
+        "model": "raterprojectapi.category",
         "pk": 4,
         "fields": {
             "type": "dominoes"
         }
     },
     {
-        "model": "gameraterapi.category",
+        "model": "raterprojectapi.category",
         "pk": 5,
         "fields": {
             "type": "adventure"
         }
     },
     {
-        "model": "gameraterapi.category",
+        "model": "raterprojectapi.category",
         "pk": 6,
         "fields": {
             "type": "battle"
