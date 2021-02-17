@@ -1,27 +1,27 @@
 [
     {
-        "model": "raterprojectapi.ratings",
+        "model": "raterprojectapi.game",
         "pk": 1,
         "fields": {
             "gamer": 1,
             "title": "Warhammer 40K",
             "description": "Badass space marines fighting for the one true emperor",
             "designer": "Warhammer 40K",
-            "year_released": "2021-03-15T08:16:59.844Z",
+            "year_released": "2021-03-15",
             "number_of_players" : 8,
             "estimated_time_of_play": 100,
             "age_recommendation": 17
         }
     },
     {
-        "model": "raterprojectapi.ratings",
+        "model": "raterprojectapi.game",
         "pk": 2,
         "fields": {
-            "gamer": 2,
+            "gamer": 1,
             "title": "Breath of the Wild",
             "description": "Badass hero fighting for his one true love",
             "designer": "Nintendo",
-            "year_released": "2021-03-15T08:16:59.844Z",
+            "year_released": "2021-03-15",
             "number_of_players" : 1,
             "estimated_time_of_play": 100,
             "age_recommendation": 17
